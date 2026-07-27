@@ -18,12 +18,12 @@ const CONFIG = {
     ],
     // Sample gallery images (replace with your own)
     galleryImages: [
-        'https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=400&h=400&fit=crop',
-        'https://images.unsplash.com/photo-1516481318008-f8c9f46aaecc?w=400&h=400&fit=crop',
-        'https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=400&h=400&fit=crop',
-        'https://images.unsplash.com/photo-1460886968619-a7b6bc3f0a1c?w=400&h=400&fit=crop',
-        'https://images.unsplash.com/photo-1524879527921-f83e1df58d4a?w=400&h=400&fit=crop',
-        'https://images.unsplash.com/photo-1525895922519-21f3e1f88ea9?w=400&h=400&fit=crop'
+        'http://hc1.checker.in/file2link/documents/file_571414.jpg/IMG_20260727_201234.jpg',
+        'http://hc1.checker.in/file2link/documents/file_571415.jpg/IMG_20260727_201219.jpg',
+        'http://hc1.checker.in/file2link/documents/file_571416.jpg/IMG_20260727_201209.jpg',
+        '',
+        '',
+        ''
     ]
 };
 
